@@ -1,0 +1,17 @@
+open new terminal:
+cd medibook
+cd backend
+npm install
+npm run dev
+
+open new terminal:
+cd medibook
+cd backend
+node seed.js
+
+open new terminal:
+cd medibook
+cd frontend
+npm install
+npm start
+

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Cardiology",
+    "experience": 12,
+    "fees": 800,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "name": "Dr. Ananya Sen",
+    "specialization": "Dermatology",
+    "experience": 8,
+    "fees": 600,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  }
+]
